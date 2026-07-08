@@ -2,6 +2,8 @@
 
 **Languages and Tools:**
 
-<a height="20" href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,dotnet,md,bash,regex,docker,kubernetes,kafka,redis,postgres,mongodb,nginx,git,cmake,opencv,gtk,neovim,linux,arch,bsg" />
+<a href="https://skillicons.dev">
+  <code>
+      <img height="20" src="https://skillicons.dev/icons?i=c,cpp,cs,rust,dotnet,md,bash,regex,docker,kubernetes,kafka,redis,postgres,mongodb,nginx,git,cmake,opencv,gtk,neovim,linux,arch,bsg" />
+  </code>
 </a>
