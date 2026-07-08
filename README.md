@@ -3,5 +3,5 @@
 **Languages and Tools:**
 
 <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,rust,md,bash,regex,docker,kubernetes,kafka,redis,postgres,mongodb,nginx,git,cmake,opencv,gtk,neovim,linux,arch,bsg" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,rust,md,bash,regex,docker,kubernetes,kafka,redis,postgres,mongodb,nginx,git,cmake,opencv,gtk,neovim,linux,arch,bsd" />
 </a>
