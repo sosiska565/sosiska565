@@ -4,6 +4,6 @@
 
 <a href="https://skillicons.dev">
   <code>
-      <img height="20" src="https://skillicons.dev/icons?i=c,cpp,cs,rust,dotnet,md,bash,regex,docker,kubernetes,kafka,redis,postgres,mongodb,nginx,git,cmake,opencv,gtk,neovim,linux,arch,bsg" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,dotnet,md,bash,regex,docker,kubernetes,kafka,redis,postgres,mongodb,nginx,git,cmake,opencv,gtk,neovim,linux,arch,bsg" />
   </code>
 </a>
